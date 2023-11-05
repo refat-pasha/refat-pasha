@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @refat-pasha
-- 👀 I’m interested in java coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on sponcor 
+- 👀 I’m interested in java coding and game development with c# in unity
+- 🌱 I’m currently learning java and c#
+- 💞️ I’m looking to collaborate on sponcor for game making
 - 📫 How to reach me 
 
 <!---
