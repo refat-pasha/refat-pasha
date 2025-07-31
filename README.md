@@ -31,7 +31,7 @@
   
 
 - 📫 How to reach me refatpasha567@gmail.com
-- https://refat-pasha.github.io/protfolio/ 
+- refat-pasha.github.io/protfolio/ 
   
 
 - ⚡ Fun fact "Who am I?"  
