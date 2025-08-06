@@ -18,9 +18,9 @@ README.md for Refat Pasha (Dracula/Dark Themed, Fun Additions, Rich Tech Stack)
 <h2 align="center">Hi 👋, I'm Refat Pasha</h2>
 <h3 align="center">A passionate Python developer from Bangladesh</h3>
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXcyZ2tkdmkxNHNtaDNwcjdpaGMyZGpoYTBpZmxiazJodXF1cW42ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="400" style="margin-top:18px; border-radius:14px;" />
-</div>
+<div align="right">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXcyZ2tkdmkxNHNtaDNwcjdpaGMyZGpoYTBpZmxiazJodXF1cW42ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" align="right" height="" width="" />
+</div>  
 
 <br/>
 
@@ -34,8 +34,16 @@ README.md for Refat Pasha (Dracula/Dark Themed, Fun Additions, Rich Tech Stack)
 - 🌐 My Portfolio: [refat-pasha.github.io/protfolio/](https://refat-pasha.github.io/protfolio/)
 - ⚡ Fun fact: **Who am I?**  
 - 🕹️ Play with my README! [Find Pacman & Snake below!](#games-and-fun)
+  <br/>
+  <br/> 
 
 ---
+
+
+<br/> 
+<br/> 
+<br/> 
+<br/> 
 
 <h2 align="center" style="color:#ff79c6;"><b>Github Stats</b></h2>
 
@@ -43,7 +51,11 @@ README.md for Refat Pasha (Dracula/Dark Themed, Fun Additions, Rich Tech Stack)
   <img src="https://github-readme-stats.vercel.app/api?username=refat-pasha&show_icons=true&theme=dracula&locale=en&hide_border=false" height="150" alt="refat-pasha-stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refat-pasha&hide_border=false&layout=compact&theme=dracula&langs_count=8" height="150"/>
   <img src="https://streak-stats.demolab.com?user=refat-pasha&theme=dracula&hide_border=false&border_radius=5" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=refat-pasha&theme=dracula&column=4" height="150"/>
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=refat-pasha&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
+</div>
+
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=refat-pasha&radius=14&theme=dracula&area=true" height="300"/>
 </div>
 
@@ -57,7 +69,9 @@ README.md for Refat Pasha (Dracula/Dark Themed, Fun Additions, Rich Tech Stack)
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/refat-pasha/refat-pasha/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/refat-pasha/refat-pasha/output/snake.svg" alt="Snake game animation" />
+
+<img src="https://raw.githubusercontent.com/refat-pasha/refat-pasha/output/snake.svg" alt="Snake animation" />
+
 
 ---
 
